@@ -35,17 +35,3 @@ A software developer with a strong foundation in system-level programming and da
 | :---: | :---: |
 
 ---
-
-### 🏆 Featured Projects
-
-| Project | Description | Technologies |
-| :--- | :--- | :--- |
-| <a href="https://github.com/danko1122q/API-BMI"><strong>API BMI Calculator</strong></a> | A RESTful API to calculate Body Mass Index. Demonstrates back-end development skills. | `Node.js`, `Express.js`, `REST API` |
-| <a href="https://github.com/danko1122q/Clone-Web-Disney"><strong>Disney+ Landing Page Clone</strong></a> | A pixel-perfect clone of the Disney+ interface, showcasing proficiency in modern HTML and CSS. | `HTML5`, `CSS3` |
-| <a href="https://github.com/danko1122q/Portofolio"><strong>Personal Portfolio</strong></a> | A responsive portfolio website designed to present professional profile and projects. | `JavaScript`, `CSS` |
-
----
-
-### 📬 Get In Touch
-
-Feel free to connect with me on [LinkedIn](URL_LINKEDIN_ANDA) or reach out via [email](mailto:EMAIL_ANDA).
