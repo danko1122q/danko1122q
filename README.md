@@ -1,29 +1,50 @@
 # Danko
-*Software Developer | Python & C/C++ Enthusiast*
 
-A software developer with a strong foundation in system-level programming and data analysis. Proficient in C/C++ for performance-critical applications and Python for scripting, automation, and data science. Focused on writing clean, efficient, and maintainable code.
-
----
-
-### 🛠️ Technical Skills
-
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-#### Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**Software Developer** • Reverse Engineering Enthusiast
 
 ---
 
-### 📊 GitHub Analytics
+## Tech Stack
 
-| <a href="https://github.com/danko1122q"><img align="center" src="https://github-readme-stats.vercel.app/api?username=danko1122q&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Danko's github stats" /></a> | <a href="https://github.com/danko1122q"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danko1122q&layout=compact&theme=dark&hide_border=true" alt="Danko's top languages" /></a> |
-| :---: | :---: |
+```text
+Languages    : Python, C/C++, JavaScript
+Tools        : Git, Linux, VS Code
+Focus        : Low-level programming, Tool modification, System analysis
+```
 
 ---
+
+## GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=danko1122q&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danko1122q&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=danko1122q&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=danko1122q&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9)
+
+</div>
+
+---
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danko1122q)
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=danko1122q&color=58a6ff&style=flat-square)
+
+</div>
