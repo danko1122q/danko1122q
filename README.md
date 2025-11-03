@@ -10,7 +10,7 @@
 └─────────────────────────────────────────┘
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Low-level+programming;Reverse+engineering+enthusiast;Tool+modification)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Low-level+programming+expert;Reverse+engineering+enthusiast;Tool+modification+specialist)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,20 +34,20 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=danko1122q&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true&custom_title=Runtime+Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danko1122q&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&custom_title=Language+Distribution" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=danko1122q&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true&custom_title=Runtime+Stats&cache_seconds=1800" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danko1122q&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&custom_title=Language+Distribution&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=danko1122q&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e)
+![Streak Stats](https://streak-stats.demolab.com?user=danko1122q&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e)
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danko1122q&custom_title=Contribution%20Timeline&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danko1122q&custom_title=Contribution%20Timeline&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff)](https://github.com/danko1122q)
 
 </div>
 
@@ -66,24 +66,13 @@ expertise = {
 
 ---
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 📈 Contribution Graph
+## 💻 Development Stats
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/danko1122q/danko1122q/output/github-contribution-grid-snake-dark.svg)
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danko1122q&theme=github_dark)
 
 </div>
-
----
-
-## 💻 Code Time
 
 <div align="center">
 
@@ -104,6 +93,17 @@ expertise = {
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danko1122q&theme=github_dark)
+![Commit Graph](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danko1122q&theme=github_dark)
+
+</div>
+
+---
+
 <div align="center">
 
 ### 📫 Connect
@@ -111,6 +111,8 @@ expertise = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danko1122q)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=danko1122q&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/danko1122q?style=flat-square&color=58a6ff&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/danko1122q?style=flat-square&color=58a6ff&labelColor=0d1117)
 
 ---
 
