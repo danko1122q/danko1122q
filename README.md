@@ -81,16 +81,6 @@ expertise = {
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=danko1122q&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
