@@ -20,55 +20,50 @@
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ What I'm Learning
 
 <div align="center">
 
-| Domain | Technologies |
+| Category | Stack |
 |:------:|:-------------|
-| **Core Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Reverse Engineering** | ![IDA](https://img.shields.io/badge/IDA-00599C?style=flat-square) ![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=flat-square) ![GDB](https://img.shields.io/badge/GDB-A8B9CC?style=flat-square) ![x64dbg](https://img.shields.io/badge/x64dbg-000000?style=flat-square) |
-| **Development Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-| **Specialization** | Binary Analysis • Code Injection • Protocol Reverse Engineering • Memory Forensics |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
+| **RE Tools** | ![IDA](https://img.shields.io/badge/IDA-00599C?style=flat-square) ![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=flat-square) ![GDB](https://img.shields.io/badge/GDB-A8B9CC?style=flat-square) ![x64dbg](https://img.shields.io/badge/x64dbg-000000?style=flat-square) |
+| **Daily Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| **Interests** | Binary Analysis • Code Injection • Protocol RE • Learning Assembly |
 
 </div>
 
 ---
 
-## 🎯 Areas of Expertise
+## 🎯 What I'm Into
 
 ```python
-class Expertise:
-    def __init__(self):
-        self.skills = {
-            "reverse_engineering": [
-                "Binary analysis & decompilation",
-                "Protocol dissection & reconstruction",
-                "Anti-debug & anti-tamper bypass",
-                "Malware analysis & behavior tracking"
-            ],
-            "low_level_programming": [
-                "Memory manipulation & exploitation",
-                "System calls & kernel interaction",
-                "Assembly optimization (x86/x64/ARM)",
-                "Buffer overflow & ROP chains"
-            ],
-            "tool_development": [
-                "CLI utilities & automation",
-                "Debug & analysis frameworks",
-                "Patch generators & injectors",
-                "Custom disassemblers"
-            ],
-            "security_research": [
-                "Vulnerability discovery",
-                "Exploit development",
-                "Binary patching & modification",
-                "Security bypass techniques"
-            ]
-        }
+# Still learning, but here's what I'm exploring:
+
+interests = {
+    "reverse_engineering": [
+        "Trying to understand how binaries work",
+        "Learning to analyze network protocols",
+        "Experimenting with debuggers",
+        "Reading assembly code (still confusing sometimes lol)"
+    ],
     
-    def current_focus(self):
-        return "Breaking binaries, understanding systems, building better tools"
+    "low_level_stuff": [
+        "Playing with memory and pointers",
+        "Learning system calls",
+        "Getting better at x86/x64 assembly",
+        "Understanding how programs actually run"
+    ],
+    
+    "making_tools": [
+        "Writing scripts to automate boring tasks",
+        "Building small CLI tools",
+        "Experimenting with code modification",
+        "Creating helpful utilities for myself"
+    ],
+    
+    "current_goal": "Learn by breaking things and see how they work 🔧"
+}
 ```
 
 ---
@@ -109,18 +104,20 @@ class Expertise:
 
 ---
 
-## 💡 Philosophy
+## 💡 My Approach
 
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║  "Breaking code to understand it,                        ║
-║   Rebuilding it to master it,                            ║
-║   Sharing knowledge to empower others."                  ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────┐
+│                                             │
+│  "Break stuff → Figure out why →           │
+│   Fix it → Learn something new"            │
+│                                             │
+│  Still learning, making mistakes,          │
+│  and having fun with code! 🚀              │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
 
 </div>
@@ -142,10 +139,10 @@ class Expertise:
 
 <div align="center">
 
-### 💻 "Code is poetry written in logic, reverse engineering is reading between the lines."
+### 💬 "Learning by breaking things and putting them back together (sometimes)"
 
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open%20Source-💚-success?style=flat-square)
-![Powered by Coffee](https://img.shields.io/badge/Powered%20by-☕-brown?style=flat-square)
+![Learning](https://img.shields.io/badge/Status-Learning-yellow?style=flat-square)
+![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-green?style=flat-square)
+![Powered by Curiosity](https://img.shields.io/badge/Powered%20by-Curiosity-blue?style=flat-square)
 
 </div>
