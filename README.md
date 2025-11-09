@@ -85,7 +85,6 @@ expertise = {
 
 <div align="center">
 
-![Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danko1122q&theme=github_dark)
 ![Commit Graph](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danko1122q&theme=github_dark)
 
 </div>
