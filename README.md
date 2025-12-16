@@ -70,6 +70,24 @@ class Developer:
 <img src="https://github-readme-stats.vercel.app/api?username=danko1122q&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="49%" />
 <img src="https://github-readme-streak-stats.demolab.com?user=danko1122q&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
 
+</div>
+
+### 📈 Most Used Languages (Real-time)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danko1122q&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="49%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danko1122q&theme=github_dark" width="49%" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danko1122q&theme=github_dark" width="49%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danko1122q&theme=github_dark&utcOffset=7" width="49%" />
+
+</div>
+
+### 📉 Contribution Activity
+
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=danko1122q&custom_title=Contribution%20Graph&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" width="100%" />
 
 </div>
